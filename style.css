@@ -52,7 +52,7 @@ p {
   display: flex;
 
   justify-content: space-around;
-  margin-right: 15rem;
+
   padding: 2.5rem 0;
 }
 
@@ -424,6 +424,9 @@ h4 {
   }
   .header {
     background-position: left center;
+  }
+  .header {
+    background-attachment: inherit;
   }
 }
 
